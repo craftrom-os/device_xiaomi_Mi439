@@ -1,6 +1,14 @@
 [
   {
-    "repository": "android_device_xiaomi_mithorium-common",
-    "target_path": "device/xiaomi/mithorium-common"
+    "remote"      : "craftrom",
+    "repository"  : "device_xiaomi_mithorium-common",
+    "target_path" : "device/xiaomi/mithorium-common",
+    "branch"      : "uther"
+  },
+  {
+    "remote"      : "craftrom",
+    "repository"  : "vendor_xiaomi_Mi439",
+    "target_path" : "vendor/xiaomi/Mi439",
+    "branch"      : "uther"
   }
 ]
